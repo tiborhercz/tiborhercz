@@ -3,8 +3,8 @@ Hi there 👋,
 My name is Tibor Hercz I am a Cloud Engineer with a background in Software development.
 
 ## 📝 Latest blog post
-[How to access your AWS Secret Manager secrets in an Elastic Kubernetes Service cluster](https://binx.io/blog/2021/11/03/how-to-access-your-aws-secret-manager-secrets-in-an-elastic-kubernetes-service-cluster/)
-[How to bootstrap an AWS account with Terraform state backend](https://binx.io/blog/2021/10/06/how-to-bootstrap-an-aws-account-with-terraform-state-backend/)
+- [How to access your AWS Secret Manager secrets in an Elastic Kubernetes Service cluster](https://binx.io/blog/2021/11/03/how-to-access-your-aws-secret-manager-secrets-in-an-elastic-kubernetes-service-cluster/)
+- [How to bootstrap an AWS account with Terraform state backend](https://binx.io/blog/2021/10/06/how-to-bootstrap-an-aws-account-with-terraform-state-backend/)
 
 ## Skills
 
