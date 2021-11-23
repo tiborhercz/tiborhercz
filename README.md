@@ -34,6 +34,7 @@ My name is Tibor Hercz I am a Cloud Engineer with a background in Software devel
 ![TypeScript](https://img.shields.io/badge/typescript-355E3B.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![php](https://img.shields.io/badge/php-355E3B.svg?style=for-the-badge&logo=php&logoColor=white)
 ![python](https://img.shields.io/badge/python-355E3B.svg?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-355E3B.svg?style=for-the-badge&logo=go&logoColor=white)
 
 #### Frameworks (JS & PHP)
 
