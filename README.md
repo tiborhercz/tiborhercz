@@ -2,7 +2,7 @@ Hi there 👋,
 
 My name is Tibor Hercz I am a Cloud Engineer with a background in Software development.
 
-## 📝 Latest blog post
+## 📝 Blog posts
 - [S3 website hosting: Why your domain name and bucket name must be identical?](https://binx.io/blog/2022/01/31/s3-website-hosting-why-your-domain-name-and-bucket-name-must-be-identical/)
 - [Improve RDS scalability and resilience with AWS RDS Proxy](https://binx.io/blog/2022/01/21/improve-rds-scalability-and-resilience-with-aws-rds-proxy/)
 - [Scheduled scaling for EC2 Auto Scaling](https://binx.io/blog/2021/12/23/scheduled-scaling-for-ec2-auto-scaling/)
