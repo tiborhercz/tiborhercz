@@ -7,6 +7,7 @@ I have a passion for:
 - Security
 - Sharing knowledge
 - Go
+- Open Source contributions
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tibor-hercz/)
 
@@ -18,4 +19,3 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tibor-hercz/)
 - [Why you should start signing your git commits today](https://binx.io/blog/2021/12/06/why-you-should-start-signing-your-git-commits-today/)
 - [How to access your AWS Secret Manager secrets in an Elastic Kubernetes Service cluster](https://binx.io/blog/2021/11/03/how-to-access-your-aws-secret-manager-secrets-in-an-elastic-kubernetes-service-cluster/)
 - [How to bootstrap an AWS account with Terraform state backend](https://binx.io/blog/2021/10/06/how-to-bootstrap-an-aws-account-with-terraform-state-backend/)
-
