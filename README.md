@@ -4,6 +4,7 @@ My name is Tibor Hercz I am a Cloud Engineer with a background in Software devel
 
 I have a passion for:
 - Designing and building AWS architectures
+- Software engineering
 - Security
 - Sharing knowledge
 - Go
