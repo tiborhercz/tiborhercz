@@ -13,7 +13,8 @@ I have a passion for:
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tibor-hercz/)
 
 ## 📝 [Blog posts](https://tiborhercz.com/)
-- [CloudFormation Custom Resource: Transit Gateway Peering Accepter ](https://tiborhercz.com/cloudformation-custom-resource-transit-gateway-peering-accepter/)
+- [How to calculate availability](https://tiborhercz.com/how-to-calculate-availability/)
+- [CloudFormation Custom Resource: Transit Gateway Peering Accepter](https://tiborhercz.com/cloudformation-custom-resource-transit-gateway-peering-accepter/)
 - [Golang WebAssembly ](https://tiborhercz.com/golang-webassembly/)
 - [Best practices for S3 web hosting and explaining why](https://binx.io/blog/2022/02/03/best-practices-for-s3-web-hosting-and-explaining-why/)
 - [S3 website: Why your domain name and bucket name must be identical](https://binx.io/blog/2022/01/31/s3-website-hosting-why-your-domain-name-and-bucket-name-must-be-identical/)
