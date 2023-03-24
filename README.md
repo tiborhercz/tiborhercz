@@ -13,7 +13,8 @@ I have a passion for:
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tibor-hercz/)
 
 ## 📝 [Blog posts](https://tiborhercz.com/)
-- [How to calculate availability](https://tiborhercz.com/how-to-calculate-availability/)
+- [How to interconnect on-premises network and multiple AWS VPCs]([https://tiborhercz.com/how-to-calculate-availability/](https://tiborhercz.com/how-to-interconnect-on-premises-network-and-multiple-aws-vpcs/))
+- [How to view AWS accounts attached to IAM Identity Center (SSO) groups ](https://tiborhercz.com/how-to-view-aws-accounts-attached-to-iam-identity-center-sso-groups/)
 - [CloudFormation Custom Resource: Transit Gateway Peering Accepter](https://tiborhercz.com/cloudformation-custom-resource-transit-gateway-peering-accepter/)
 - [Golang WebAssembly ](https://tiborhercz.com/golang-webassembly/)
 - [Best practices for S3 web hosting and explaining why](https://binx.io/blog/2022/02/03/best-practices-for-s3-web-hosting-and-explaining-why/)
