@@ -14,6 +14,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tibor-hercz/)
 
 ## 📝 [Blog posts](https://tiborhercz.com/)
 
+- [What happens when you leak AWS credentials and how AWS minimizes the damage ](https://tiborhercz.com/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/)
 - [How to interconnect on-premises network and multiple AWS VPCs](https://tiborhercz.com/how-to-interconnect-on-premises-network-and-multiple-aws-vpcs/)
 - [How to view AWS accounts attached to IAM Identity Center (SSO) groups ](https://tiborhercz.com/how-to-view-aws-accounts-attached-to-iam-identity-center-sso-groups/)
 - [CloudFormation Custom Resource: Transit Gateway Peering Accepter](https://tiborhercz.com/cloudformation-custom-resource-transit-gateway-peering-accepter/)
