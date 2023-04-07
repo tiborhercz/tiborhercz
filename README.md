@@ -10,7 +10,7 @@ I have a passion for:
 - Go
 - Open Source contributions
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/tibor-hercz/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/tiborhercz/)
 
 ## 📝 [Blog posts](https://tiborhercz.com/)
 
