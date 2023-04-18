@@ -1,6 +1,6 @@
 Hi there 👋,
 
-My name is Tibor Hercz I am a Cloud Engineer with a background in Software development.
+My name is Tibor Hercz I am a Cloud Engineer with a background in Software engineering.
 
 I have a passion for:
 - Designing and building AWS architectures
