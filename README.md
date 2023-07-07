@@ -8,7 +8,7 @@ I have a passion for:
 - Networking
 - Sharing knowledge
 - Go
-- Open Source contributions
+- Open Source
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tiborhercz/)
 
