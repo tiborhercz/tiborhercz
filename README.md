@@ -2,13 +2,12 @@ Hi there 👋,
 
 My name is Tibor Hercz I am a Cloud Engineer with a background in Software engineering.
 
-I have a passion for:
-- Designing and building AWS architectures
-- Software engineering
+I enjoy:
+- Designing and building Cloud infrastructure
+- Writing software
+- Automation
 - Networking
 - Sharing knowledge
-- Go
-- Open Source
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tiborhercz/)
 
