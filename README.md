@@ -1,13 +1,6 @@
 Hi there 👋,
 
-My name is Tibor Hercz I am a Cloud Engineer with a background in Software engineering.
-
-I enjoy:
-- Designing and building Cloud infrastructure
-- Writing software
-- Automation
-- Networking
-- Sharing knowledge
+My name is Tibor Hercz I am a Cloud Architect with a background in Software engineering.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tiborhercz/)
 
