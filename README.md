@@ -1,6 +1,6 @@
 Hi there 👋,
 
-My name is Tibor Hercz I am a Cloud Architect with a background in Software engineering.
+My name is Tibor Hercz I am a Cloud Architect & Software engineer.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tiborhercz/)
 
